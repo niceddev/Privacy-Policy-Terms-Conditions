@@ -6,10 +6,7 @@
 
 [CATCH the BaLL(Terms & Conditions)](https://niceddev.github.io/Privacy-Policy-Terms-Conditions/CATCH the BaLL/t_c)
 
-[Pongame(Privacy Policy)](https://niceddev.github.io/Privacy-Policy-Terms-Conditions/Pongame/privacy_policy)
+[Pongame(Privacy Policy)](https://niceddev.github.io/Privacy-Policy-Terms-Conditions/Pongame/p_p)
 
-[Pongame(Terms & Conditions)](https://niceddev.github.io/Privacy-Policy-Terms-Conditions/Pongame/terms_and_conditions.html)
+[Pongame(Terms & Conditions)](https://niceddev.github.io/Privacy-Policy-Terms-Conditions/Pongame/t_c)
 
-```markdown
-
-```
